@@ -1,1 +1,3 @@
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&login=abel-haj)](https://github.com/mohouyizme/1337-readme)
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/abel-haj" alt="abel-haj's 42 stats" /></a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abel-haj&layout=compact)](https://github.com/abel-haj/SNACK_AI)
